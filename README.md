@@ -2,7 +2,7 @@
 
 A simple and intuitive Pomodoro Timer built with Svelte to enhance productivity by using the Pomodoro Technique.
 
-https://i.imgur.com/Ifp1Px3.png
+![](https://i.imgur.com/Ifp1Px3.png)
 
 ## **Features**
 
