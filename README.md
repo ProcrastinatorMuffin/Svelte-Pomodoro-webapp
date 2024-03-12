@@ -1,6 +1,6 @@
 # **Pomodoro Timer App**
 
-A simple and intuitive Pomodoro Timer built with Svelte to enhance productivity by using the Pomodoro Technique.
+A simple and intuitive Pomodoro Timer built with Svelte.
 
 ![](https://i.imgur.com/IpApV9p.png)
 
@@ -53,4 +53,3 @@ A simple and intuitive Pomodoro Timer built with Svelte to enhance productivity 
 ## **Contribution**
 
 While this project is primarily a personal project, contributions or feedback are welcome. Please open an issue or submit a pull request.
-
