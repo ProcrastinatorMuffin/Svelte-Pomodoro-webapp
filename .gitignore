@@ -1,5 +1,4 @@
 /node_modules/
 /public/build/
 .DS_Store
-my-pomodoro-app/package-lock.json
-/scripts/setupTypeScript.js/
+package-lock.json
